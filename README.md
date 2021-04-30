@@ -15,6 +15,8 @@
 
 [The-World-of-Numbers.sh](The-World-of-Numbers.sh)
 
+[Comparing Numbers](Comparing-Numbers.sh)
+
 ## Medium
 ['Grep'-#1.sh]('Grep'-%231.sh)
 
