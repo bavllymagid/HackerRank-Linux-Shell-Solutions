@@ -1,8 +1,9 @@
 read num1
 read num2
-if (($num1 > $num2)); then
+if [[ $num1 > $num2 ]] 
+then
 echo "X is greater than Y"
-elif (($num1 < $num2));
+elif [[ $num1 < $num2 ]];
 then
 echo "X is less than Y"
 else
