@@ -25,3 +25,5 @@
 [Arithmetic-Operations.sh](Arithmetic-Operations.sh)
 
 [Compute-the-Average.sh](Compute-the-Average.sh)
+
+[Paste-1](Paste-1)
