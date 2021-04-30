@@ -11,9 +11,9 @@
 
 [Head of a Text File #1.sh](Head of a Text File %231.sh)
 
-[Tail-of-a-Text-File-#2.sh](Tail-of-a-Text-File-%232.sh)
+[Tail-of-a-Text-File-#2.sh](Head-of-a-Text-File-%231.sh)
 
-##Medium
+## Medium
 ['Grep'-#1.sh]('Grep'-%231.sh)
 
 ['Grep'-#2]('Grep'-%232)
