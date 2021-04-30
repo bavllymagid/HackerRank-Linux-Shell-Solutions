@@ -21,3 +21,5 @@
 ['Grep'-#3]('Grep'-%233)
 
 [Arithmetic-Operations.sh](Arithmetic-Operations.sh)
+
+[Compute-the-Average.sh](Compute-the-Average.sh)
