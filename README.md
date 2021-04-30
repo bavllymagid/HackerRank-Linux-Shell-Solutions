@@ -9,7 +9,7 @@
 
 [Cut-#4.sh](Cut-%234.sh)
 
-[Head of a Text File #1.sh](Head of a Text File %231.sh)
+[Head of a Text File #1.sh](Head-of-a-Text-File-%231.sh)
 
 [Tail-of-a-Text-File-#2.sh](Head-of-a-Text-File-%231.sh)
 
