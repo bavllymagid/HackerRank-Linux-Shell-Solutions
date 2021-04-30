@@ -29,3 +29,5 @@
 [Compute-the-Average.sh](Compute-the-Average.sh)
 
 [Paste-1](Paste-1)
+
+[Paste-2.sh](Paste-2.sh)
