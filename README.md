@@ -31,3 +31,5 @@
 [Paste-1](Paste-1)
 
 [Paste-2.sh](Paste-2.sh)
+
+[Paste-3.sh](Paste-3.sh)
